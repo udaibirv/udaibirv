@@ -1,9 +1,14 @@
 ### Hi there 👋
+My name is Udaibir Virk, a full-stack web devloper whose journey through web devlopment has ingited a passsion to continually strive each and every day towards honing a well-rounded skill set. My introduction to the world of web devleopment was kickstarted by my brother's idea of making a matchmaking basketball app for pick-up games at our local park. As soon as I saw the intricacies that went into developing applications, I knew I had found something I wanted to devote my full attention and time towards. 
 
 <!--
 **udaibirv/udaibirv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Languages and Tools: 
+![](https://img.shields.io/badge/<Code>-<JavaScript>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,6 +16,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
