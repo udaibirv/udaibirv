@@ -1,10 +1,11 @@
 ### Hi there 👋
-My name is Udaibir Virk, a full-stack web devloper whose journey through web devlopment has ingited a passsion to continually strive each and every day towards honing a well-rounded skill set. My introduction to the world of web devleopment was kickstarted by my brother's idea of making a matchmaking basketball app for pick-up games at our local park. As soon as I saw the intricacies that went into developing applications, I knew I had found something I wanted to devote my full attention and time towards.<a href="https://docs.google.com/gview?url=https://github.com/udaibirv/resume/raw/main/Udaibir_Virk.pdf&embedded=true"> My resume can be found here </a>
+My name is Udaibir Virk, a full-stack web devloper whose journey through web devlopment has ingited a passsion to continually strive each and every day towards honing a well-rounded skill set. My introduction to the world of web devleopment was kickstarted by my brother's idea of making a matchmaking basketball app for pick-up games at our local park. As soon as I saw the intricacies that went into developing applications, I knew I had found something I wanted to devote my full attention and time towards.
 
 ![Udaibir's GitHub stats](https://github-readme-stats.vercel.app/api?username=udaibirv&show_icons=true&theme=synthwave&hide=contribs,prs,stars)
 
 ### Projects 
    - <a href="https://udaibirv.github.io/ajax-project">See you favorite NBA teams' recent stats, games, and more!</a>
+      - <a href="https://github.com/udaibirv/ajax-project">Source Code</a>
 
 
 ### Languages and Tools I Frequently Use: 
@@ -18,13 +19,15 @@ My name is Udaibir Virk, a full-stack web devloper whose journey through web dev
 - 🌱 I’m currently learning: Stacks Data Structure and React Hooks
 
 - 📫 How to reach me: 
-   - [<img src="https://user-images.githubusercontent.com/29240758/108280082-7b8be000-7132-11eb-959e-1912c005461b.png">][linkedin]
-   - [<img src="https://user-images.githubusercontent.com/29240758/108282405-67e27880-7136-11eb-9d16-11e3609cfb47.png">][gitHub]
+   - LinkedIn:  
+      - [<img src="https://user-images.githubusercontent.com/29240758/108280082-7b8be000-7132-11eb-959e-1912c005461b.png">][linkedin]
+   - Resume:   
+      - [<img src="https://user-images.githubusercontent.com/29240758/108418664-683a4c80-71e6-11eb-8d8c-58972a6fa8e3.png" height="30">][resume]
 
 
 
 
 
  [linkedin]: https://www.linkedin.com/in/udaibir-virk/
- [gitHub]: https://github.com/udaibirv
+ [Resume]: https://docs.google.com/gview?url=https://github.com/udaibirv/resume/raw/main/Udaibir_Virk.pdf&embedded=true
  [project]: https://udaibirv.github.io/ajax-project/
