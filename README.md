@@ -6,7 +6,9 @@ My name is Udaibir Virk, a full-stack web devloper whose journey through web dev
 ### Projects 
    - <a href="https://udaibirv.github.io/ajax-project">See you favorite NBA teams' recent stats, games, and more!</a>
       - <a href="https://github.com/udaibirv/ajax-project">Source Code</a>
-   - Final project link will go here
+   
+   - <a href="https://recipe-maker-app.herokuapp.com/">Upload and view homemade recipes from different cusines!</a>
+      - <a href="https://github.com/udaibirv/myRecipe">Source Code</a>
 
 
 ### Languages and Tools I Frequently Use: 
