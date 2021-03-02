@@ -32,5 +32,5 @@ My name is Udaibir Virk, a full-stack web devloper whose journey through web dev
 
 
  [linkedin]: https://www.linkedin.com/in/udaibir-virk/
- [Resume]: https://docs.google.com/gview?url=https://github.com/udaibirv/resume/raw/main/Udaibir_Virk.pdf&embedded=true
+ [Resume]: https://docs.google.com/gview?url=https://github.com/udaibirv/resume/raw/main/Udaibir_Virk_.pdf&embedded=true
  [project]: https://udaibirv.github.io/ajax-project/
