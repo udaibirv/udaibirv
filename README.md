@@ -19,7 +19,7 @@ My name is Udaibir Virk, a full-stack web devloper whose journey through web dev
 - 🔭 I’m currently working on 
   -  👨🏽‍🍳 A web application for people who want to try out different cuisines by making them 
 
-- 🌱 I’m currently learning: Stacks Data Structure and React Hooks
+- 🌱 I’m currently learning: Beginner and Intermediate level PHP on codeacademy.com
 
 - 📫 How to reach me: 
    - LinkedIn:  
