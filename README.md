@@ -17,7 +17,7 @@ My name is Udaibir Virk, a full-stack web devloper whose journey through web dev
 
 
 - 🔭 I’m currently working on 
-  - ⚽️ A web application for soccer fans who current information on the Europe's top domestic league
+  - ⚽️ A web application for soccer fans who want current information on the Europe's top domestic league
 
 
 - 📫 How to reach me: 
