@@ -4,11 +4,15 @@ My name is Udaibir Virk, a full-stack web devloper whose journey through web dev
 ![Udaibir's GitHub stats](https://github-readme-stats.vercel.app/api?username=udaibirv&show_icons=true&theme=synthwave&hide=contribs,prs,stars)
 
 ### Projects 
+   -  - <a href="https://recipe-maker-app.herokuapp.com/">Upload and view homemade recipes from different cusines!</a>
+      - <a href="https://github.com/udaibirv/myRecipe">Source Code</a>
+   
+   - <a href="https://footy-verse.herokuapp.com/">View stats and information on Europe's top 5 Soccer leagues!</a>
+      - <a href="https://github.com/udaibirv/footyVerse">Source Code</a>
+   
    - <a href="https://udaibirv.github.io/ajax-project">See your favorite NBA teams' recent stats, games, and more!</a>
       - <a href="https://github.com/udaibirv/ajax-project">Source Code</a>
    
-   - <a href="https://recipe-maker-app.herokuapp.com/">Upload and view homemade recipes from different cusines!</a>
-      - <a href="https://github.com/udaibirv/myRecipe">Source Code</a>
 
 
 ### Languages and Tools I Frequently Use: 
